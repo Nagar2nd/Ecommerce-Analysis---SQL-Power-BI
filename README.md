@@ -1,5 +1,11 @@
 # Ecommerce Sales Analysis
 
+# NOTE : The .pbix(Power BI file) abd the Presentation file are too big to be uploaded here, So attaching the links to access them.
+
+1. **Dashboard_file.pbix:** Power BI file with interactive dashboards visualizing the analysis.
+2. **Presentation - Ecommerce PDF:** A professional presentation of the entire analysis.
+
+          
 This repository contains an in-depth analysis of an Ecommerce dataset, focusing on sales performance, customer behavior, operational efficiency, and time trends. 
 The project is divided into two phases: **SQL Analysis** and **Data Visualization**, providing actionable insights to drive strategic decision-making.
 
@@ -70,9 +76,7 @@ To create an interactive dashboard that visualizes key metrics derived from SQL 
 ## **Resources in the Repository**
 
 1. **SQL_Queries Folder:** Contains all SQL scripts used for data analysis.
-2. **Dashboard_file.pbix:** Power BI file with interactive dashboards visualizing the analysis.
-3. **Executive Summary-Ecommerce.docx:** A detailed report summarizing insights and recommendations.
-4. **Presentation - Ecommerce PDF:** A professional presentation of the entire analysis.
+2. **Executive Summary-Ecommerce.docx:** A detailed report summarizing insights and recommendations.
 
 ---
 
