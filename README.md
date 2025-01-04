@@ -1,6 +1,6 @@
 # Ecommerce Sales Analysis
 
-#### NOTE : The .pbix(Power BI file) and the Presentation file are too big to be uploaded here, So attaching the links to access them.
+#### NOTE : The .pbix(Power BI file) and the Original Presentation file are too big to be uploaded here, So attaching the links to access them.
 
 1. **[[Dashboard_file.pbix:]](https://drive.google.com/file/d/1qg100YR1Otk0u4yJRci5TbssgsC2wT3U/view?usp=sharing)** Power BI file with interactive dashboards visualizing the analysis.
 2. **[[Presentation - Ecommerce PDF:]](https://drive.google.com/file/d/1EGWXmA52t6y60a--MH_J6AWcvRMmCpPT/view?usp=sharing)** A professional presentation of the entire analysis.
